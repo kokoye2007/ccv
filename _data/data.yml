@@ -62,7 +62,7 @@ experiences:
           - IoT 
           - Linux 
           - DevOps
-	  - Raspberry Pi
+          - Raspberry Pi
 
     - role: Team Leader
       time: 2009 - Present
@@ -72,60 +72,61 @@ experiences:
           - Ubuntu Customization
           - Juju Charms
           - K8s Ubuntu
-	  - IoT
-	  - Raspberry Pi
+          - IoT
+          - Raspberry Pi
 
     - role: IoT Project Consultant
       time: 2018 - 2019
       company: NDA, NDA 
       details: |
-	IoT for Smart City and Multi purpose.
+        IoT for Smart City and Multi purpose.
           - Raspberry Pi
-	  - LoRa 
-	  - RTC
-	  - Traffic Monitoring
-	  - Mapping
+          - LoRa
+          - RTC
+          - Traffic Monitoring
+          - Mapping
 
     - role: IoT Project Consultant
       time: 2017 - 2018
       company: NDA, NDA 
       details: |
-	IoT for Office and Centralization System
+        IoT for Office and Centralization System
           - Fingerprint 
           - Raspberry Pi
           - Arduino
-	  - PipaOS
-	  - Linux Firmware
-	  - Power Management
+          - Pipa OS
+          - Linux Firmware
+          - Power Management
 
     - role: ICT Evangelist
       time: 2016 - 2017
       company: Kanaung Hub, Yangon
       details: |
-	Kanaung Hub Incubation Center at ICT Evangelist 
-          - Startup
-          - Meetup
-	  - BootCamp
-	  - Tech Hub
-	  - Tech TGIF
+        Kanaung Hub Incubation Center at ICT Evangelist
+        - Startup
+        - Meetup
+        - Boot Camp
+        - Tech Hub
+        - Tech TGIF
     - role: CTO 
       time: 2014 - 2016
       company: Center for Civic Tech - CCT, Yangon
       details: |
-	Civic Tech Support Local NGO.
+       	Civic Tech Support Local NGO.
           - Fix My Street
           - Open Street Map
-	  - My Socity 
-	  - Tech Support for NGO
+          - My Socity
+          - Tech Support for NGO
+
     - role: ICT Editor
       time: 2019 - 2012
       company: Knowledge Bridge Magazine, Yangon
       details: |
-	Civic Tech Support Local NGO.
-          - Fix My Street
-          - Open Street Map
-	  - My Socity 
-	  - Tech Support for NGO
+        Knowledge Bridge Magazine
+         - Linux
+         - Script
+         - App Review
+         - Guide
 projects:
     title: Projects
     intro: >
@@ -168,14 +169,14 @@ projects:
       - title: Tech Intern
         link: "https://tech-intern.github.io/"
         tagline: "Tech Intern is Trending Technology for Internship."
-
+        
 publications:
     title: Publications
     intro: |
-	Its not press or mainstream media,
-	Just Printed Articles at Internet Journal 
-	and Knowledge Bridge Magazine. there is guide 
-	and presentation list.
+     Its not press or mainstream media,
+     Just Printed Articles at Internet Journal 
+     and Knowledge Bridge Magazine. there is guide 
+     and presentation list.
     papers:
       - title: "Ubuntu Wiki - Ubuntu-MM"
         link: "https://ubuntu-mm.net/umw"
