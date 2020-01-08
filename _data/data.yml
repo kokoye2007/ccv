@@ -196,7 +196,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux System Administration
+      - name: Linux SysAdmin
         level: 98%
 
       - name: DevOps
