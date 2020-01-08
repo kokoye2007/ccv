@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Ko Ko Ye
     tagline: Full Stack DevOps
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kokoye2007@gmail.com
@@ -29,10 +29,10 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Proficiency
 
       - idiom: Japanese
-        level: Professional
+        level: Hobbie
 
     interests:
       - item: Scripting
@@ -41,7 +41,7 @@ sidebar:
       - item: Travling 
         link:
 
-      - item: 
+      - item: Hacking
         link:
 
 career-profile:
@@ -51,44 +51,79 @@ career-profile:
 education:
     - degree: B.Sc in Physics
       university: University of East Yangon
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+
+    - role: Tech Team Leader
+      time: 2019 - Present
+      company: OSS Tech Solution, Myanmar
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - IoT 
+          - Linux 
+	  - DevOps
+	  - Raspberry Pi
+
+    - role: Team Leader
+      time: 2009 - Present
+      company: Ubuntu Myanmar LoCo Team, Myanmar
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Ubuntu Customization
+          - Juju Charms
+	  - K8s Ubuntu
+	  - IoT
+	  - Raspberry Pi
+
+    - role: IoT Project Consultant
+      time: 2018 - 2019
+      company: NDA, NDA 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+	IoT for Smart City and Multi purpose.
+          - Raspberry Pi
+	  - LoRa 
+	  - RTC
+	  - Traffic Monitoring
+	  - Mapping
+
+    - role: IoT Project Consultant
+      time: 2017 - 2018
+      company: NDA, NDA 
+      details: |
+	IoT for Office and Centralization System
+          - Fingerprint 
+          - Raspberry Pi
+          - Arduino
+	  - PipaOS
+	  - Linux Firmware
+	  - Power Management
+
+    - role: ICT Evangelist
+      time: 2016 - 2017
+      company: Kanaung Hub, Yangon
+      details: |
+	Kanaung Hub Incubation Center at ICT Evangelist 
+          - Startup
+          - Meetup
+	  - BootCamp
+	  - Tech Hub
+	  - Tech TGIF
+    - role: CTO 
+      time: 2014 - 2016
+      company: Center for Civic Tech - CCT, Yangon
+      details: |
+	Civic Tech Support Local NGO.
+          - Fix My Street
+          - Open Street Map
+	  - My Socity 
+	  - Tech Support for NGO
+    - role: ICT Editor
+      time: 2019 - 2012
+      company: Knowledge Bridge Magazine, Yangon
+      details: |
+	Civic Tech Support Local NGO.
+          - Fix My Street
+          - Open Street Map
+	  - My Socity 
+	  - Tech Support for NGO
 projects:
     title: Projects
     intro: >
@@ -96,69 +131,92 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Ubuntu-MM
+        link: "https://ubuntu-mm.net/"
+        tagline: "Ubuntu - Myanmar Localization and Customization."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Raspberry Pi
+        link: "https://web.facebook.com/groups/rpi.myanmar/"
+        tagline: "Raspberry Pi Myanmar Community."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Arduino Yangon
+        link: "https://web.facebook.com/ArduinoDayYangon/"
+        tagline: "Arduino Days at Yangon."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: A Team
+        link: "https://web.facebook.com/ATeamMyanmar/"
+        tagline: "A Team by Mandalay Technology Group."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: BarCamp Yangon
+        link: "https://www.barcampyangon.org/"
+        tagline: "The World Biggest Barcamp."
+
+      - title: L10n
+        link: "https://launchpad.net/"
+        tagline: "localization for burmese, mon, shan and kachin. next is karen and other"
+
+      - title: Docker
+        link: "http://docker-study-jams.herokuapp.com/"
+        tagline: "Docker Community Meetup in Myanmar."
+
+      - title: Kubernetes
+        link: "https://www.k8smm.org/"
+        tagline: "Kubernetes Myanmar User Groups - Community Support."
+
+      - title: Tech Intern
+        link: "https://tech-intern.github.io/"
+        tagline: "Tech Intern is Trending Technology for Internship."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+	Its not press or mainstream media,
+	Just Printed Articles at Internet Journal 
+	and Knowledge Bridge Magazine. there is guide 
+	and presentation list.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Ubuntu Wiki - Ubuntu-MM"
+        link: "https://ubuntu-mm.net/umw"
+        authors: Ubuntu-MM
+        conference: Ubuntu, 2015
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Docker Quick Start Intro"
+        link: "https://devops-myanmar.gitbook.io/docker-quick-start/"
+        authors: check at Sponsor page
+        conference: "TecAdmin Docker Guide, 2019"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Other Slides and Presentation
+        link: "https://slides.com/kokoye2007"
+        authors: Ko Ko Ye
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Linux System Administration
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: DevOps
+        level: 80%
+
+      - name: Bash Scripting
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Linux OS Customization
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: CI / CD
+        level: 75%
 
-      - name: Sketch & Photoshop
+      - name: Kubernetes
         level: 60%
+
+      - name: Docker
+        level: 80%
+
+      - name: Git
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
