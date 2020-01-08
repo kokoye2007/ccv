@@ -7,75 +7,51 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ko Ko Ye
+    tagline: Full Stack DevOps
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    email: kokoye2007@gmail.com
+    phone: 09 4500 22022
+    website: ubuntu-mm.net #do not add http://
+    linkedin: kokoye2007
+    github: kokoye2007
+    gitlab: kokoye2007
+    bitbucket: kokoye2007
+    twitter: '@kokoye2007'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Burmese
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Japanese
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Scripting
         link:
 
-      - item: Snowboarding
+      - item: Travling 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+I have played around with Linux since 2004, from Web Designer to  Web Administrator (For LAMP) with Ubuntu being my main choice.  I settled on Ubuntu as my favourite Linux distro. I will Promote About Linux and Ubuntu Distro since 2009., Raspberry Pi since 2013, Container LXD at 2014, Open Stack at 2016, DevOps at 2018, Docker and Kubernetes at 2019.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: B.Sc in Physics
+      university: University of East Yangon
 experiences:
     - role: Lead Developer
       time: 2015 - Present
