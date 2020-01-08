@@ -58,20 +58,20 @@ experiences:
       time: 2019 - Present
       company: OSS Tech Solution, Myanmar
       details: |
-	Tech Solution - Team Leader
+        Tech Solution - Team Leader
           - IoT 
           - Linux 
-	  - DevOps
+          - DevOps
 	  - Raspberry Pi
 
     - role: Team Leader
       time: 2009 - Present
       company: Ubuntu Myanmar LoCo Team, Myanmar
       details: |
-	Ubuntu Myanmar Local Community 
+        Ubuntu Myanmar Local Community 
           - Ubuntu Customization
           - Juju Charms
-	  - K8s Ubuntu
+          - K8s Ubuntu
 	  - IoT
 	  - Raspberry Pi
 
