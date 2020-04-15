@@ -54,8 +54,21 @@ education:
 
 experiences:
 
+    - role: Enterprise Architect (OpenSource) 
+      time: 2020 - Present
+      company: Yoma Bank, Myanmar
+      details: |
+        Open Source Software for Banking
+          - Enterprise Open Source
+          - Open Source Solution
+          - Open Source Tech Stack
+          - DevSecOps
+          - Linux
+          - K8s
+          - Docker
+
     - role: Tech Team Leader
-      time: 2019 - Present
+      time: 2019 - 2020
       company: OSS Tech Solution, Myanmar
       details: |
         Tech Solution - Team Leader
