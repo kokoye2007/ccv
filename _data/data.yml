@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Mr K
     tagline: Linux System Administrator 
-    avatar: profile2.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     #    email: kokoye2007@gmail.com
@@ -141,9 +141,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        Most is Community and Open Source Software and Open Soure Hardware.
     assignments:
       - title: Ubuntu-MM
         link: "https://ubuntu-mm.net/"
