@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mr K
-    tagline: Linux System Administrator 
+    name: Ye Min Oo
+    tagline: Linux System Administrator - DevOps
     avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    #    email: kokoye2007@gmail.com
-    #    phone: 09 4500 22022
+     Sidebar links
+        email: kokoye2007@gmail.com
+        phone: 04 690 855 03
     #    website: ubuntu-mm.net #do not add http://
-    #    linkedin: kokoye2007
-    #    github: kokoye2007
+        linkedin: kokoye2007
+        github: kokoye2007
     #    gitlab: kokoye2007
     #    bitbucket: kokoye2007
-    #    twitter: '@kokoye2007'
+        twitter: '@kokoye2007'
     #    stack-overflow: # Number/Username, e.g. 123456/alandoe
     #    codewars:
     #    goodreads: # Number-Username, e.g. 123456-alandoe
@@ -54,17 +54,19 @@ education:
 experiences:
 
     - role: Enterprise Architect (OpenSource) 
-      time: 2020 - Present
+      time: 2020 - 2021
       company: Yoma Bank, Myanmar
       details: |
         Open Source Software for Banking
           - Enterprise Open Source
           - Open Source Solution
           - Open Source Tech Stack
+          - Open Source Compliance (OpenChainProject)
           - DevSecOps
           - Linux
           - K8s
           - Docker
+          - Solution Architect
 
     - role: Tech Team Leader
       time: 2019 - 2020
@@ -143,6 +145,10 @@ projects:
     intro: >
         Most is Community and Open Source Software and Open Soure Hardware.
     assignments:
+      - title: Events
+        link: "https://www.flickr.com/groups/ubuntu-mm"
+        tagline: "145 - Ubuntu Events in Myanmar."
+
       - title: Ubuntu-MM
         link: "https://ubuntu-mm.net/"
         tagline: "Ubuntu - Myanmar Localization and Customization."
