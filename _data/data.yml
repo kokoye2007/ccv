@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Ye Min Oo </br> Ko Ko Ye
+    name: Ye Min Oo </br> <sub> Ko Ko Ye </sub>
     tagline: Linux System Administrator </br> DevOps
     avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -44,7 +44,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Career Profile Summary
     summary: "I have played around with Linux since 2004, from Web Designer to Web Administrator (For LAMP) with Ubuntu being my main choice. I settled on Ubuntu as my favourite Linux distro.  I will Promote About Linux and Ubuntu Distro since 2009, Raspberry Pi since 2013, Container LXD at 2014, OpenStack at 2016, DevOps at 2018, Docker and Kubernetes at 2019."
 
 education:
@@ -83,7 +83,7 @@ experiences:
       company: Ubuntu Myanmar LoCo Team, Myanmar
       details: |
         Ubuntu Myanmar Local Community 
-          - Ubuntu Customization
+          - Ubuntu Customisation
           - Juju Charms
           - K8s Ubuntu
           - IoT
@@ -151,7 +151,7 @@ projects:
 
       - title: Ubuntu-MM
         link: "https://ubuntu-mm.net/"
-        tagline: "Ubuntu - Myanmar Localization and Customization."
+        tagline: "Ubuntu - Myanmar Localisation and Customisation."
 
       - title: Raspberry Pi
         link: "https://web.facebook.com/groups/rpi.myanmar/"
@@ -221,7 +221,7 @@ skills:
       - name: Bash Scripting
         level: 98%
 
-      - name: Linux OS Customization
+      - name: Linux OS Customisation
         level: 95%
 
       - name: CI / CD
